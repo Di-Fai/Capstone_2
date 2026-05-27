@@ -13,7 +13,7 @@ New Jersey — Territory Manager: Miami Vue
 
 The purpose of this project is to compare sales performance, customer activity, store performance, and product category trends across both territories. The analysis was completed using Python, Pandas, and Matplotlib inside a Jupyter Notebook environment.
 
-The final project includes:
+### The final project includes:
 
 Data cleaning and preparation
 Data merging across multiple CSV files
@@ -30,7 +30,7 @@ Jupyter Notebook
 Git & GitHub
 Files Used
 
-The following datasets were used in this analysis:
+### The following datasets were used in this analysis:
 
 StoreSales.csv
 StoreDetail.csv
@@ -39,7 +39,7 @@ ProductCategories.csv
 customer_list.csv
 Project Questions Answered
 
-This project answers the following business questions:
+### This project answers the following business questions:
 
 Who are the territory managers for the assigned territories?
 Which stores belong to each assigned territory?
@@ -50,7 +50,7 @@ What are the transaction trends by product category?
 What product categories generate the most revenue?
 What marketing recommendations should be made for next quarter?
 Data Analysis Process
-1. Data Import and Inspection
+### 1. Data Import and Inspection
 
 All CSV files were imported into Pandas DataFrames and reviewed using:
 
@@ -62,7 +62,7 @@ This helped verify:
 Column names
 Data types
 Missing values
-2. Data Cleaning
+### 2. Data Cleaning
 
 The data was cleaned by:
 
@@ -70,7 +70,7 @@ Removing extra spaces from column names
 Replacing spaces with underscores
 Converting transaction dates into datetime format
 Creating monthly grouping columns
-3. Data Merging
+### 3. Data Merging
 
 The datasets were merged together using:
 
@@ -82,7 +82,7 @@ cust_id
 
 This created one complete dataset for analysis.
 
-4. Sales Analysis
+### 4. Sales Analysis
 
 The project analyzed:
 
@@ -91,7 +91,7 @@ Store rankings
 Customer spending
 Product category performance
 Transaction counts
-5. Data Visualization
+### 5. Data Visualization
 
 Charts were created using Matplotlib, including:
 
@@ -100,12 +100,13 @@ Bar charts
 
 All charts and tables were automatically saved into the capstone_outputs folder.
 
-Key Findings
+### Key Findings
 Some stores consistently outperformed others in total revenue.
 Certain product categories generated significantly more sales and transactions.
 Rewards customers contributed strongly to repeat purchases.
 Some stores and categories showed opportunities for growth through additional marketing support.
-Final Recommendation
+
+### Final Recommendation
 
 The marketing team should focus next quarter on:
 
