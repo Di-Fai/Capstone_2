@@ -1,0 +1,577 @@
+State,Month,Category,Monthly_Category_Revenue
+Maine,2022-01,Apparel and Merchandise,958.97
+Maine,2022-01,Art Supplies,857.61
+Maine,2022-01,Books (General),370.52
+Maine,2022-01,Stationery and Supplies,232.04999999999998
+Maine,2022-01,Technology & Accessories,9007.64
+Maine,2022-01,Textbooks,4273.52
+Maine,2022-02,Apparel and Merchandise,767.63
+Maine,2022-02,Art Supplies,776.61
+Maine,2022-02,Books (General),294.65
+Maine,2022-02,Stationery and Supplies,218.01999999999998
+Maine,2022-02,Technology & Accessories,15341.85
+Maine,2022-02,Textbooks,3609.5299999999997
+Maine,2022-03,Apparel and Merchandise,785.91
+Maine,2022-03,Art Supplies,769.16
+Maine,2022-03,Books (General),420.06
+Maine,2022-03,Stationery and Supplies,237.55
+Maine,2022-03,Technology & Accessories,17063.36
+Maine,2022-03,Textbooks,3897.19
+Maine,2022-04,Apparel and Merchandise,808.78
+Maine,2022-04,Art Supplies,1051.94
+Maine,2022-04,Books (General),265.4
+Maine,2022-04,Stationery and Supplies,205.41
+Maine,2022-04,Technology & Accessories,12117.24
+Maine,2022-04,Textbooks,5720.42
+Maine,2022-05,Apparel and Merchandise,1105.5
+Maine,2022-05,Art Supplies,836.71
+Maine,2022-05,Books (General),368.35
+Maine,2022-05,Stationery and Supplies,336.69
+Maine,2022-05,Technology & Accessories,15783.65
+Maine,2022-05,Textbooks,4200.21
+Maine,2022-06,Apparel and Merchandise,884.84
+Maine,2022-06,Art Supplies,744.91
+Maine,2022-06,Books (General),449.49
+Maine,2022-06,Stationery and Supplies,277.57
+Maine,2022-06,Technology & Accessories,25006.35
+Maine,2022-06,Textbooks,4210.77
+Maine,2022-07,Apparel and Merchandise,1063.32
+Maine,2022-07,Art Supplies,628.78
+Maine,2022-07,Books (General),389.9
+Maine,2022-07,Stationery and Supplies,370.07
+Maine,2022-07,Technology & Accessories,9056.8
+Maine,2022-07,Textbooks,7862.24
+Maine,2022-08,Apparel and Merchandise,1002.85
+Maine,2022-08,Art Supplies,956.66
+Maine,2022-08,Books (General),380.12
+Maine,2022-08,Stationery and Supplies,410.64
+Maine,2022-08,Technology & Accessories,19334.73
+Maine,2022-08,Textbooks,5894.07
+Maine,2022-09,Apparel and Merchandise,823.19
+Maine,2022-09,Art Supplies,679.61
+Maine,2022-09,Books (General),406.17
+Maine,2022-09,Stationery and Supplies,358.38
+Maine,2022-09,Technology & Accessories,18009.3
+Maine,2022-09,Textbooks,7116.65
+Maine,2022-10,Apparel and Merchandise,764.67
+Maine,2022-10,Art Supplies,865.21
+Maine,2022-10,Books (General),260.83
+Maine,2022-10,Stationery and Supplies,347.98
+Maine,2022-10,Technology & Accessories,16542.7
+Maine,2022-10,Textbooks,6165.7
+Maine,2022-11,Apparel and Merchandise,705.69
+Maine,2022-11,Art Supplies,520.8
+Maine,2022-11,Books (General),548.05
+Maine,2022-11,Stationery and Supplies,277.8
+Maine,2022-11,Technology & Accessories,14279.41
+Maine,2022-11,Textbooks,3451.33
+Maine,2022-12,Apparel and Merchandise,876.9300000000001
+Maine,2022-12,Art Supplies,930.11
+Maine,2022-12,Books (General),352.86
+Maine,2022-12,Stationery and Supplies,271.24
+Maine,2022-12,Technology & Accessories,17754.45
+Maine,2022-12,Textbooks,5159.64
+Maine,2023-01,Apparel and Merchandise,1034.74
+Maine,2023-01,Art Supplies,1000.6
+Maine,2023-01,Books (General),593.68
+Maine,2023-01,Stationery and Supplies,456.15
+Maine,2023-01,Technology & Accessories,31955.19
+Maine,2023-01,Textbooks,6291.59
+Maine,2023-02,Apparel and Merchandise,1513.0
+Maine,2023-02,Art Supplies,1092.58
+Maine,2023-02,Books (General),372.18
+Maine,2023-02,Stationery and Supplies,392.53999999999996
+Maine,2023-02,Technology & Accessories,29816.14
+Maine,2023-02,Textbooks,4463.86
+Maine,2023-03,Apparel and Merchandise,1260.7
+Maine,2023-03,Art Supplies,1467.06
+Maine,2023-03,Books (General),313.69
+Maine,2023-03,Stationery and Supplies,625.84
+Maine,2023-03,Technology & Accessories,26483.27
+Maine,2023-03,Textbooks,6012.36
+Maine,2023-04,Apparel and Merchandise,1988.29
+Maine,2023-04,Art Supplies,1445.83
+Maine,2023-04,Books (General),578.12
+Maine,2023-04,Stationery and Supplies,595.63
+Maine,2023-04,Technology & Accessories,24805.010000000002
+Maine,2023-04,Textbooks,6462.53
+Maine,2023-05,Apparel and Merchandise,1532.72
+Maine,2023-05,Art Supplies,1355.72
+Maine,2023-05,Books (General),490.27
+Maine,2023-05,Stationery and Supplies,475.55
+Maine,2023-05,Technology & Accessories,16958.12
+Maine,2023-05,Textbooks,5388.84
+Maine,2023-06,Apparel and Merchandise,1402.7
+Maine,2023-06,Art Supplies,1007.63
+Maine,2023-06,Books (General),421.27
+Maine,2023-06,Stationery and Supplies,438.83
+Maine,2023-06,Technology & Accessories,20683.66
+Maine,2023-06,Textbooks,6229.57
+Maine,2023-07,Apparel and Merchandise,1586.45
+Maine,2023-07,Art Supplies,1079.92
+Maine,2023-07,Books (General),526.37
+Maine,2023-07,Stationery and Supplies,500.84
+Maine,2023-07,Technology & Accessories,32945.7
+Maine,2023-07,Textbooks,8091.89
+Maine,2023-08,Apparel and Merchandise,1818.48
+Maine,2023-08,Art Supplies,1297.14
+Maine,2023-08,Books (General),731.15
+Maine,2023-08,Stationery and Supplies,483.96
+Maine,2023-08,Technology & Accessories,32406.63
+Maine,2023-08,Textbooks,5464.72
+Maine,2023-09,Apparel and Merchandise,1298.11
+Maine,2023-09,Art Supplies,1146.23
+Maine,2023-09,Books (General),436.31
+Maine,2023-09,Stationery and Supplies,490.0
+Maine,2023-09,Technology & Accessories,34813.68
+Maine,2023-09,Textbooks,6678.26
+Maine,2023-10,Apparel and Merchandise,1508.98
+Maine,2023-10,Art Supplies,1242.51
+Maine,2023-10,Books (General),606.79
+Maine,2023-10,Stationery and Supplies,648.41
+Maine,2023-10,Technology & Accessories,22307.06
+Maine,2023-10,Textbooks,8591.54
+Maine,2023-11,Apparel and Merchandise,1434.85
+Maine,2023-11,Art Supplies,1214.53
+Maine,2023-11,Books (General),450.82
+Maine,2023-11,Stationery and Supplies,449.41999999999996
+Maine,2023-11,Technology & Accessories,25048.98
+Maine,2023-11,Textbooks,6830.28
+Maine,2023-12,Apparel and Merchandise,1102.03
+Maine,2023-12,Art Supplies,1258.82
+Maine,2023-12,Books (General),575.66
+Maine,2023-12,Stationery and Supplies,445.74
+Maine,2023-12,Technology & Accessories,28592.75
+Maine,2023-12,Textbooks,9304.32
+Maine,2024-01,Apparel and Merchandise,1656.13
+Maine,2024-01,Art Supplies,1117.28
+Maine,2024-01,Books (General),389.88
+Maine,2024-01,Stationery and Supplies,428.37
+Maine,2024-01,Technology & Accessories,35637.16
+Maine,2024-01,Textbooks,4652.86
+Maine,2024-02,Apparel and Merchandise,1150.08
+Maine,2024-02,Art Supplies,1467.06
+Maine,2024-02,Books (General),313.69
+Maine,2024-02,Stationery and Supplies,599.46
+Maine,2024-02,Technology & Accessories,22140.83
+Maine,2024-02,Textbooks,5823.36
+Maine,2024-03,Apparel and Merchandise,2032.29
+Maine,2024-03,Art Supplies,1511.83
+Maine,2024-03,Books (General),578.12
+Maine,2024-03,Stationery and Supplies,595.63
+Maine,2024-03,Technology & Accessories,25131.29
+Maine,2024-03,Textbooks,6462.53
+Maine,2024-04,Apparel and Merchandise,1488.72
+Maine,2024-04,Art Supplies,1289.72
+Maine,2024-04,Books (General),490.27
+Maine,2024-04,Stationery and Supplies,475.55
+Maine,2024-04,Technology & Accessories,16631.84
+Maine,2024-04,Textbooks,5388.84
+Maine,2024-05,Apparel and Merchandise,1499.59
+Maine,2024-05,Art Supplies,1035.63
+Maine,2024-05,Books (General),436.51
+Maine,2024-05,Stationery and Supplies,438.83
+Maine,2024-05,Technology & Accessories,21455.02
+Maine,2024-05,Textbooks,6560.62
+Maine,2024-06,Apparel and Merchandise,1489.56
+Maine,2024-06,Art Supplies,1051.92
+Maine,2024-06,Books (General),511.13
+Maine,2024-06,Stationery and Supplies,500.84
+Maine,2024-06,Technology & Accessories,32174.34
+Maine,2024-06,Textbooks,7760.84
+Maine,2024-07,Apparel and Merchandise,1818.48
+Maine,2024-07,Art Supplies,1297.14
+Maine,2024-07,Books (General),731.15
+Maine,2024-07,Stationery and Supplies,483.96
+Maine,2024-07,Technology & Accessories,32406.63
+Maine,2024-07,Textbooks,5464.72
+Maine,2024-08,Apparel and Merchandise,1326.11
+Maine,2024-08,Art Supplies,1302.03
+Maine,2024-08,Books (General),436.31
+Maine,2024-08,Stationery and Supplies,490.0
+Maine,2024-08,Technology & Accessories,35883.15
+Maine,2024-08,Textbooks,7067.9400000000005
+Maine,2024-09,Apparel and Merchandise,1480.98
+Maine,2024-09,Art Supplies,1086.71
+Maine,2024-09,Books (General),606.79
+Maine,2024-09,Stationery and Supplies,648.41
+Maine,2024-09,Technology & Accessories,21237.59
+Maine,2024-09,Textbooks,8201.86
+Maine,2024-10,Apparel and Merchandise,1434.85
+Maine,2024-10,Art Supplies,1323.69
+Maine,2024-10,Books (General),474.26
+Maine,2024-10,Stationery and Supplies,469.39
+Maine,2024-10,Technology & Accessories,25457.260000000002
+Maine,2024-10,Textbooks,7361.12
+Maine,2024-11,Apparel and Merchandise,1102.03
+Maine,2024-11,Art Supplies,1149.66
+Maine,2024-11,Books (General),552.22
+Maine,2024-11,Stationery and Supplies,425.77
+Maine,2024-11,Technology & Accessories,28184.47
+Maine,2024-11,Textbooks,8773.48
+Maine,2024-12,Apparel and Merchandise,1034.74
+Maine,2024-12,Art Supplies,1000.6
+Maine,2024-12,Books (General),593.68
+Maine,2024-12,Stationery and Supplies,456.15
+Maine,2024-12,Technology & Accessories,31955.19
+Maine,2024-12,Textbooks,6291.59
+Maine,2025-01,Apparel and Merchandise,3082.71
+Maine,2025-01,Art Supplies,2351.79
+Maine,2025-01,Books (General),741.1800000000001
+Maine,2025-01,Stationery and Supplies,1004.3199999999999
+Maine,2025-01,Technology & Accessories,34465.43
+Maine,2025-01,Textbooks,3663.32
+Maine,2025-02,Apparel and Merchandise,3343.0
+Maine,2025-02,Art Supplies,2680.2
+Maine,2025-02,Books (General),1336.48
+Maine,2025-02,Stationery and Supplies,824.34
+Maine,2025-02,Technology & Accessories,40673.71
+Maine,2025-02,Textbooks,2935.55
+Maine,2025-03,Apparel and Merchandise,2706.04
+Maine,2025-03,Art Supplies,2277.84
+Maine,2025-03,Books (General),911.64
+Maine,2025-03,Stationery and Supplies,904.12
+Maine,2025-03,Technology & Accessories,33618.59
+Maine,2025-03,Textbooks,5344.43
+Maine,2025-04,Apparel and Merchandise,3870.56
+Maine,2025-04,Art Supplies,3567.48
+Maine,2025-04,Books (General),1706.44
+Maine,2025-04,Stationery and Supplies,1155.6299999999999
+Maine,2025-04,Technology & Accessories,43258.59
+Maine,2025-04,Textbooks,9544.79
+Maine,2025-05,Apparel and Merchandise,3807.04
+Maine,2025-05,Art Supplies,3671.07
+Maine,2025-05,Books (General),1124.06
+Maine,2025-05,Stationery and Supplies,1399.98
+Maine,2025-05,Technology & Accessories,27394.21
+Maine,2025-05,Textbooks,9102.91
+Maine,2025-06,Apparel and Merchandise,3312.75
+Maine,2025-06,Art Supplies,2914.76
+Maine,2025-06,Books (General),1543.5
+Maine,2025-06,Stationery and Supplies,1424.97
+Maine,2025-06,Technology & Accessories,36435.95
+Maine,2025-06,Textbooks,11422.05
+Maine,2025-07,Apparel and Merchandise,1714.95
+Maine,2025-07,Art Supplies,2115.77
+Maine,2025-07,Books (General),896.11
+Maine,2025-07,Stationery and Supplies,820.48
+Maine,2025-07,Technology & Accessories,47082.98
+Maine,2025-07,Textbooks,6900.73
+Maine,2025-08,Apparel and Merchandise,2186.39
+Maine,2025-08,Art Supplies,2176.84
+Maine,2025-08,Books (General),916.45
+Maine,2025-08,Stationery and Supplies,848.13
+Maine,2025-08,Technology & Accessories,46125.83
+Maine,2025-08,Textbooks,8816.79
+Maine,2025-09,Apparel and Merchandise,2277.39
+Maine,2025-09,Art Supplies,1972.46
+Maine,2025-09,Books (General),657.47
+Maine,2025-09,Stationery and Supplies,871.9499999999999
+Maine,2025-09,Technology & Accessories,36181.99
+Maine,2025-09,Textbooks,6523.82
+Maine,2025-10,Apparel and Merchandise,4075.52
+Maine,2025-10,Art Supplies,3376.99
+Maine,2025-10,Books (General),1378.73
+Maine,2025-10,Stationery and Supplies,1149.85
+Maine,2025-10,Technology & Accessories,73851.93000000001
+Maine,2025-10,Textbooks,9623.66
+Maine,2025-11,Apparel and Merchandise,2339.53
+Maine,2025-11,Art Supplies,2472.14
+Maine,2025-11,Books (General),1028.38
+Maine,2025-11,Stationery and Supplies,894.01
+Maine,2025-11,Technology & Accessories,42341.67
+Maine,2025-11,Textbooks,8146.6
+Maine,2025-12,Apparel and Merchandise,2352.76
+Maine,2025-12,Art Supplies,2132.86
+Maine,2025-12,Books (General),773.09
+Maine,2025-12,Stationery and Supplies,860.65
+Maine,2025-12,Technology & Accessories,53450.520000000004
+Maine,2025-12,Textbooks,6125.4400000000005
+New Jersey,2022-01,Apparel and Merchandise,2734.63
+New Jersey,2022-01,Art Supplies,2329.35
+New Jersey,2022-01,Books (General),1294.95
+New Jersey,2022-01,Stationery and Supplies,1075.28
+New Jersey,2022-01,Technology & Accessories,49198.99
+New Jersey,2022-01,Textbooks,13964.31
+New Jersey,2022-02,Apparel and Merchandise,2588.93
+New Jersey,2022-02,Art Supplies,2151.06
+New Jersey,2022-02,Books (General),1083.28
+New Jersey,2022-02,Stationery and Supplies,1035.28
+New Jersey,2022-02,Technology & Accessories,38548.770000000004
+New Jersey,2022-02,Textbooks,17818.37
+New Jersey,2022-03,Apparel and Merchandise,2807.94
+New Jersey,2022-03,Art Supplies,2275.69
+New Jersey,2022-03,Books (General),1032.0
+New Jersey,2022-03,Stationery and Supplies,960.53
+New Jersey,2022-03,Technology & Accessories,44032.19
+New Jersey,2022-03,Textbooks,13671.36
+New Jersey,2022-04,Apparel and Merchandise,2867.61
+New Jersey,2022-04,Art Supplies,2558.89
+New Jersey,2022-04,Books (General),1220.38
+New Jersey,2022-04,Stationery and Supplies,981.29
+New Jersey,2022-04,Technology & Accessories,51715.26
+New Jersey,2022-04,Textbooks,19121.97
+New Jersey,2022-05,Apparel and Merchandise,3085.35
+New Jersey,2022-05,Art Supplies,2187.3
+New Jersey,2022-05,Books (General),759.83
+New Jersey,2022-05,Stationery and Supplies,1075.07
+New Jersey,2022-05,Technology & Accessories,45940.68
+New Jersey,2022-05,Textbooks,19988.79
+New Jersey,2022-06,Apparel and Merchandise,2877.84
+New Jersey,2022-06,Art Supplies,2503.78
+New Jersey,2022-06,Books (General),967.6800000000001
+New Jersey,2022-06,Stationery and Supplies,990.14
+New Jersey,2022-06,Technology & Accessories,41567.46
+New Jersey,2022-06,Textbooks,17961.65
+New Jersey,2022-07,Apparel and Merchandise,2331.16
+New Jersey,2022-07,Art Supplies,1662.99
+New Jersey,2022-07,Books (General),1040.05
+New Jersey,2022-07,Stationery and Supplies,1013.3199999999999
+New Jersey,2022-07,Technology & Accessories,47851.33
+New Jersey,2022-07,Textbooks,18197.62
+New Jersey,2022-08,Apparel and Merchandise,2632.69
+New Jersey,2022-08,Art Supplies,2135.79
+New Jersey,2022-08,Books (General),1121.12
+New Jersey,2022-08,Stationery and Supplies,1073.6299999999999
+New Jersey,2022-08,Technology & Accessories,49595.35
+New Jersey,2022-08,Textbooks,17346.33
+New Jersey,2022-09,Apparel and Merchandise,3594.17
+New Jersey,2022-09,Art Supplies,2158.38
+New Jersey,2022-09,Books (General),1188.22
+New Jersey,2022-09,Stationery and Supplies,997.18
+New Jersey,2022-09,Technology & Accessories,48304.49
+New Jersey,2022-09,Textbooks,21626.72
+New Jersey,2022-10,Apparel and Merchandise,2873.12
+New Jersey,2022-10,Art Supplies,2096.1
+New Jersey,2022-10,Books (General),1224.24
+New Jersey,2022-10,Stationery and Supplies,1210.3899999999999
+New Jersey,2022-10,Technology & Accessories,59427.12
+New Jersey,2022-10,Textbooks,16779.81
+New Jersey,2022-11,Apparel and Merchandise,2773.7
+New Jersey,2022-11,Art Supplies,2336.53
+New Jersey,2022-11,Books (General),1035.82
+New Jersey,2022-11,Stationery and Supplies,1002.7099999999999
+New Jersey,2022-11,Technology & Accessories,43442.75
+New Jersey,2022-11,Textbooks,19935.38
+New Jersey,2022-12,Apparel and Merchandise,2941.35
+New Jersey,2022-12,Art Supplies,2401.74
+New Jersey,2022-12,Books (General),1267.22
+New Jersey,2022-12,Stationery and Supplies,990.79
+New Jersey,2022-12,Technology & Accessories,56310.72
+New Jersey,2022-12,Textbooks,20552.93
+New Jersey,2023-01,Apparel and Merchandise,3843.62
+New Jersey,2023-01,Art Supplies,3711.06
+New Jersey,2023-01,Books (General),1378.19
+New Jersey,2023-01,Stationery and Supplies,1576.23
+New Jersey,2023-01,Technology & Accessories,91319.93
+New Jersey,2023-01,Textbooks,13610.61
+New Jersey,2023-02,Apparel and Merchandise,4186.87
+New Jersey,2023-02,Art Supplies,3110.29
+New Jersey,2023-02,Books (General),1671.72
+New Jersey,2023-02,Stationery and Supplies,1358.84
+New Jersey,2023-02,Technology & Accessories,67440.24
+New Jersey,2023-02,Textbooks,14047.56
+New Jersey,2023-03,Apparel and Merchandise,5342.08
+New Jersey,2023-03,Art Supplies,3450.73
+New Jersey,2023-03,Books (General),1653.45
+New Jersey,2023-03,Stationery and Supplies,1276.1399999999999
+New Jersey,2023-03,Technology & Accessories,75123.33
+New Jersey,2023-03,Textbooks,14683.69
+New Jersey,2023-04,Apparel and Merchandise,5170.08
+New Jersey,2023-04,Art Supplies,3727.08
+New Jersey,2023-04,Books (General),1371.15
+New Jersey,2023-04,Stationery and Supplies,1676.1399999999999
+New Jersey,2023-04,Technology & Accessories,63852.48
+New Jersey,2023-04,Textbooks,18298.29
+New Jersey,2023-05,Apparel and Merchandise,4679.51
+New Jersey,2023-05,Art Supplies,3536.7599999999998
+New Jersey,2023-05,Books (General),1916.18
+New Jersey,2023-05,Stationery and Supplies,1568.19
+New Jersey,2023-05,Technology & Accessories,66505.55
+New Jersey,2023-05,Textbooks,14805.64
+New Jersey,2023-06,Apparel and Merchandise,4767.79
+New Jersey,2023-06,Art Supplies,3063.83
+New Jersey,2023-06,Books (General),1739.07
+New Jersey,2023-06,Stationery and Supplies,1616.8
+New Jersey,2023-06,Technology & Accessories,56792.37
+New Jersey,2023-06,Textbooks,20224.04
+New Jersey,2023-07,Apparel and Merchandise,3442.52
+New Jersey,2023-07,Art Supplies,4289.24
+New Jersey,2023-07,Books (General),1576.64
+New Jersey,2023-07,Stationery and Supplies,1266.48
+New Jersey,2023-07,Technology & Accessories,68089.39
+New Jersey,2023-07,Textbooks,20158.71
+New Jersey,2023-08,Apparel and Merchandise,4383.84
+New Jersey,2023-08,Art Supplies,3733.75
+New Jersey,2023-08,Books (General),1625.66
+New Jersey,2023-08,Stationery and Supplies,1576.49
+New Jersey,2023-08,Technology & Accessories,74104.48
+New Jersey,2023-08,Textbooks,21779.68
+New Jersey,2023-09,Apparel and Merchandise,3514.33
+New Jersey,2023-09,Art Supplies,3751.57
+New Jersey,2023-09,Books (General),1494.66
+New Jersey,2023-09,Stationery and Supplies,1556.68
+New Jersey,2023-09,Technology & Accessories,62126.48
+New Jersey,2023-09,Textbooks,23237.07
+New Jersey,2023-10,Apparel and Merchandise,3852.23
+New Jersey,2023-10,Art Supplies,3691.15
+New Jersey,2023-10,Books (General),1455.64
+New Jersey,2023-10,Stationery and Supplies,1612.86
+New Jersey,2023-10,Technology & Accessories,73807.8
+New Jersey,2023-10,Textbooks,24296.15
+New Jersey,2023-11,Apparel and Merchandise,3694.99
+New Jersey,2023-11,Art Supplies,3203.04
+New Jersey,2023-11,Books (General),1660.1399999999999
+New Jersey,2023-11,Stationery and Supplies,1409.92
+New Jersey,2023-11,Technology & Accessories,73997.75
+New Jersey,2023-11,Textbooks,22682.87
+New Jersey,2023-12,Apparel and Merchandise,4105.33
+New Jersey,2023-12,Art Supplies,3718.36
+New Jersey,2023-12,Books (General),2389.4700000000003
+New Jersey,2023-12,Stationery and Supplies,1473.53
+New Jersey,2023-12,Technology & Accessories,74377.14
+New Jersey,2023-12,Textbooks,25431.88
+New Jersey,2024-01,Apparel and Merchandise,4817.58
+New Jersey,2024-01,Art Supplies,3458.5
+New Jersey,2024-01,Books (General),1963.6200000000001
+New Jersey,2024-01,Stationery and Supplies,1498.0
+New Jersey,2024-01,Technology & Accessories,71216.57
+New Jersey,2024-01,Textbooks,16317.9
+New Jersey,2024-02,Apparel and Merchandise,4825.79
+New Jersey,2024-02,Art Supplies,3115.65
+New Jersey,2024-02,Books (General),1510.79
+New Jersey,2024-02,Stationery and Supplies,1172.62
+New Jersey,2024-02,Technology & Accessories,72767.48
+New Jersey,2024-02,Textbooks,13307.45
+New Jersey,2024-03,Apparel and Merchandise,5280.6
+New Jersey,2024-03,Art Supplies,3911.8
+New Jersey,2024-03,Books (General),1489.23
+New Jersey,2024-03,Stationery and Supplies,1730.43
+New Jersey,2024-03,Technology & Accessories,64195.31
+New Jersey,2024-03,Textbooks,18623.84
+New Jersey,2024-04,Apparel and Merchandise,4568.99
+New Jersey,2024-04,Art Supplies,3352.04
+New Jersey,2024-04,Books (General),1798.1000000000001
+New Jersey,2024-04,Stationery and Supplies,1513.8999999999999
+New Jersey,2024-04,Technology & Accessories,66162.72
+New Jersey,2024-04,Textbooks,14480.09
+New Jersey,2024-05,Apparel and Merchandise,4826.79
+New Jersey,2024-05,Art Supplies,3228.52
+New Jersey,2024-05,Books (General),1739.07
+New Jersey,2024-05,Stationery and Supplies,1638.04
+New Jersey,2024-05,Technology & Accessories,57625.11
+New Jersey,2024-05,Textbooks,20419.34
+New Jersey,2024-06,Apparel and Merchandise,3383.52
+New Jersey,2024-06,Art Supplies,4124.55
+New Jersey,2024-06,Books (General),1576.64
+New Jersey,2024-06,Stationery and Supplies,1245.24
+New Jersey,2024-06,Technology & Accessories,67256.65
+New Jersey,2024-06,Textbooks,19963.41
+New Jersey,2024-07,Apparel and Merchandise,4383.84
+New Jersey,2024-07,Art Supplies,3733.75
+New Jersey,2024-07,Books (General),1625.66
+New Jersey,2024-07,Stationery and Supplies,1576.49
+New Jersey,2024-07,Technology & Accessories,74104.48
+New Jersey,2024-07,Textbooks,21779.68
+New Jersey,2024-08,Apparel and Merchandise,3649.35
+New Jersey,2024-08,Art Supplies,3859.18
+New Jersey,2024-08,Books (General),1512.36
+New Jersey,2024-08,Stationery and Supplies,1596.26
+New Jersey,2024-08,Technology & Accessories,63819.29
+New Jersey,2024-08,Textbooks,24033.97
+New Jersey,2024-09,Apparel and Merchandise,3717.21
+New Jersey,2024-09,Art Supplies,3583.54
+New Jersey,2024-09,Books (General),1437.94
+New Jersey,2024-09,Stationery and Supplies,1573.28
+New Jersey,2024-09,Technology & Accessories,72114.99
+New Jersey,2024-09,Textbooks,23499.25
+New Jersey,2024-10,Apparel and Merchandise,3878.19
+New Jersey,2024-10,Art Supplies,3355.59
+New Jersey,2024-10,Books (General),1777.57
+New Jersey,2024-10,Stationery and Supplies,1422.75
+New Jersey,2024-10,Technology & Accessories,76901.63
+New Jersey,2024-10,Textbooks,22897.19
+New Jersey,2024-11,Apparel and Merchandise,3922.13
+New Jersey,2024-11,Art Supplies,3565.81
+New Jersey,2024-11,Books (General),2272.04
+New Jersey,2024-11,Stationery and Supplies,1460.7
+New Jersey,2024-11,Technology & Accessories,71473.26
+New Jersey,2024-11,Textbooks,25217.56
+New Jersey,2024-12,Apparel and Merchandise,3843.62
+New Jersey,2024-12,Art Supplies,3711.06
+New Jersey,2024-12,Books (General),1378.19
+New Jersey,2024-12,Stationery and Supplies,1576.23
+New Jersey,2024-12,Technology & Accessories,91319.93
+New Jersey,2024-12,Textbooks,13610.61
+New Jersey,2025-01,Apparel and Merchandise,6914.1
+New Jersey,2025-01,Art Supplies,7115.14
+New Jersey,2025-01,Books (General),3106.02
+New Jersey,2025-01,Stationery and Supplies,2758.7599999999998
+New Jersey,2025-01,Technology & Accessories,116927.74
+New Jersey,2025-01,Textbooks,11736.5
+New Jersey,2025-02,Apparel and Merchandise,7147.27
+New Jersey,2025-02,Art Supplies,6680.95
+New Jersey,2025-02,Books (General),3690.68
+New Jersey,2025-02,Stationery and Supplies,2461.46
+New Jersey,2025-02,Technology & Accessories,102011.65
+New Jersey,2025-02,Textbooks,9110.07
+New Jersey,2025-03,Apparel and Merchandise,7673.55
+New Jersey,2025-03,Art Supplies,7049.18
+New Jersey,2025-03,Books (General),2891.68
+New Jersey,2025-03,Stationery and Supplies,2689.31
+New Jersey,2025-03,Technology & Accessories,101214.39
+New Jersey,2025-03,Textbooks,16565.13
+New Jersey,2025-04,Apparel and Merchandise,11098.65
+New Jersey,2025-04,Art Supplies,8657.47
+New Jersey,2025-04,Books (General),4396.16
+New Jersey,2025-04,Stationery and Supplies,3563.73
+New Jersey,2025-04,Technology & Accessories,85673.73
+New Jersey,2025-04,Textbooks,25236.5
+New Jersey,2025-05,Apparel and Merchandise,10778.87
+New Jersey,2025-05,Art Supplies,9305.02
+New Jersey,2025-05,Books (General),4135.8
+New Jersey,2025-05,Stationery and Supplies,3708.45
+New Jersey,2025-05,Technology & Accessories,77945.2
+New Jersey,2025-05,Textbooks,27991.82
+New Jersey,2025-06,Apparel and Merchandise,10067.61
+New Jersey,2025-06,Art Supplies,9059.73
+New Jersey,2025-06,Books (General),3646.86
+New Jersey,2025-06,Stationery and Supplies,4004.17
+New Jersey,2025-06,Technology & Accessories,85933.76
+New Jersey,2025-06,Textbooks,31809.35
+New Jersey,2025-07,Apparel and Merchandise,7230.5199999999995
+New Jersey,2025-07,Art Supplies,5018.29
+New Jersey,2025-07,Books (General),2480.25
+New Jersey,2025-07,Stationery and Supplies,2372.37
+New Jersey,2025-07,Technology & Accessories,113591.87
+New Jersey,2025-07,Textbooks,18403.8
+New Jersey,2025-08,Apparel and Merchandise,6692.03
+New Jersey,2025-08,Art Supplies,4799.21
+New Jersey,2025-08,Books (General),2073.08
+New Jersey,2025-08,Stationery and Supplies,2488.15
+New Jersey,2025-08,Technology & Accessories,113411.48
+New Jersey,2025-08,Textbooks,22460.04
+New Jersey,2025-09,Apparel and Merchandise,6959.82
+New Jersey,2025-09,Art Supplies,5455.85
+New Jersey,2025-09,Books (General),2291.91
+New Jersey,2025-09,Stationery and Supplies,2304.79
+New Jersey,2025-09,Technology & Accessories,127062.89
+New Jersey,2025-09,Textbooks,19374.52
+New Jersey,2025-10,Apparel and Merchandise,10520.89
+New Jersey,2025-10,Art Supplies,8754.77
+New Jersey,2025-10,Books (General),3972.07
+New Jersey,2025-10,Stationery and Supplies,3831.92
+New Jersey,2025-10,Technology & Accessories,192758.68
+New Jersey,2025-10,Textbooks,30992.13
+New Jersey,2025-11,Apparel and Merchandise,7972.29
+New Jersey,2025-11,Art Supplies,6032.24
+New Jersey,2025-11,Books (General),2454.2400000000002
+New Jersey,2025-11,Stationery and Supplies,2301.54
+New Jersey,2025-11,Technology & Accessories,110753.42
+New Jersey,2025-11,Textbooks,17439.6
+New Jersey,2025-12,Apparel and Merchandise,8036.52
+New Jersey,2025-12,Art Supplies,6384.2
+New Jersey,2025-12,Books (General),1932.69
+New Jersey,2025-12,Stationery and Supplies,2307.96
+New Jersey,2025-12,Technology & Accessories,131024.14
+New Jersey,2025-12,Textbooks,21308.49

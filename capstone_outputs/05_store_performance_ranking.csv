@@ -1,0 +1,23 @@
+State,Store_ID,Store_Location,Total_Store_Revenue,Rank_in_State
+Maine,823,South Portland,332611.76,1.0
+Maine,822,Orono,330505.47000000003,2.0
+Maine,820,Kennebunkport,321998.55,3.0
+Maine,821,Lewiston,303761.91,4.0
+Maine,818,Bangor,300919.98,5.0
+Maine,819,Bar Harbor,287452.08,6.0
+New Jersey,835,Newark,623163.53,1.0
+New Jersey,838,Trenton,597565.68,2.0
+New Jersey,830,Hoboken,316775.48,3.0
+New Jersey,824,Atlantic City,314513.77,4.0
+New Jersey,834,New Brunswick,311056.42,5.0
+New Jersey,833,Morristown,307320.52,6.0
+New Jersey,839,Vineland,306326.3,7.0
+New Jersey,827,Clifton,301703.77,8.0
+New Jersey,836,Passaic,300358.95,9.0
+New Jersey,828,East Orange,299936.24,10.0
+New Jersey,831,Jersey City,296244.33,11.0
+New Jersey,829,Hackensack,293676.93,12.0
+New Jersey,825,Bayonne,292353.59,13.0
+New Jersey,826,Cape May,285704.59,14.0
+New Jersey,832,Montclair,261593.2,15.0
+New Jersey,837,Paterson,67112.57,16.0

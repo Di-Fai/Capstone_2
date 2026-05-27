@@ -1,0 +1,577 @@
+State,Month,Category,Number_of_Transactions
+Maine,2022-01,Apparel and Merchandise,30
+Maine,2022-01,Art Supplies,31
+Maine,2022-01,Books (General),12
+Maine,2022-01,Stationery and Supplies,29
+Maine,2022-01,Technology & Accessories,35
+Maine,2022-01,Textbooks,24
+Maine,2022-02,Apparel and Merchandise,22
+Maine,2022-02,Art Supplies,27
+Maine,2022-02,Books (General),14
+Maine,2022-02,Stationery and Supplies,23
+Maine,2022-02,Technology & Accessories,35
+Maine,2022-02,Textbooks,22
+Maine,2022-03,Apparel and Merchandise,23
+Maine,2022-03,Art Supplies,29
+Maine,2022-03,Books (General),15
+Maine,2022-03,Stationery and Supplies,29
+Maine,2022-03,Technology & Accessories,35
+Maine,2022-03,Textbooks,20
+Maine,2022-04,Apparel and Merchandise,30
+Maine,2022-04,Art Supplies,32
+Maine,2022-04,Books (General),12
+Maine,2022-04,Stationery and Supplies,28
+Maine,2022-04,Technology & Accessories,32
+Maine,2022-04,Textbooks,32
+Maine,2022-05,Apparel and Merchandise,34
+Maine,2022-05,Art Supplies,27
+Maine,2022-05,Books (General),15
+Maine,2022-05,Stationery and Supplies,31
+Maine,2022-05,Technology & Accessories,41
+Maine,2022-05,Textbooks,23
+Maine,2022-06,Apparel and Merchandise,27
+Maine,2022-06,Art Supplies,28
+Maine,2022-06,Books (General),17
+Maine,2022-06,Stationery and Supplies,33
+Maine,2022-06,Technology & Accessories,46
+Maine,2022-06,Textbooks,22
+Maine,2022-07,Apparel and Merchandise,36
+Maine,2022-07,Art Supplies,25
+Maine,2022-07,Books (General),12
+Maine,2022-07,Stationery and Supplies,39
+Maine,2022-07,Technology & Accessories,32
+Maine,2022-07,Textbooks,44
+Maine,2022-08,Apparel and Merchandise,29
+Maine,2022-08,Art Supplies,29
+Maine,2022-08,Books (General),13
+Maine,2022-08,Stationery and Supplies,34
+Maine,2022-08,Technology & Accessories,34
+Maine,2022-08,Textbooks,33
+Maine,2022-09,Apparel and Merchandise,23
+Maine,2022-09,Art Supplies,21
+Maine,2022-09,Books (General),16
+Maine,2022-09,Stationery and Supplies,38
+Maine,2022-09,Technology & Accessories,35
+Maine,2022-09,Textbooks,39
+Maine,2022-10,Apparel and Merchandise,25
+Maine,2022-10,Art Supplies,33
+Maine,2022-10,Books (General),12
+Maine,2022-10,Stationery and Supplies,36
+Maine,2022-10,Technology & Accessories,34
+Maine,2022-10,Textbooks,33
+Maine,2022-11,Apparel and Merchandise,22
+Maine,2022-11,Art Supplies,17
+Maine,2022-11,Books (General),20
+Maine,2022-11,Stationery and Supplies,25
+Maine,2022-11,Technology & Accessories,35
+Maine,2022-11,Textbooks,21
+Maine,2022-12,Apparel and Merchandise,27
+Maine,2022-12,Art Supplies,29
+Maine,2022-12,Books (General),15
+Maine,2022-12,Stationery and Supplies,26
+Maine,2022-12,Technology & Accessories,34
+Maine,2022-12,Textbooks,29
+Maine,2023-01,Apparel and Merchandise,36
+Maine,2023-01,Art Supplies,33
+Maine,2023-01,Books (General),20
+Maine,2023-01,Stationery and Supplies,44
+Maine,2023-01,Technology & Accessories,61
+Maine,2023-01,Textbooks,37
+Maine,2023-02,Apparel and Merchandise,48
+Maine,2023-02,Art Supplies,40
+Maine,2023-02,Books (General),13
+Maine,2023-02,Stationery and Supplies,39
+Maine,2023-02,Technology & Accessories,57
+Maine,2023-02,Textbooks,27
+Maine,2023-03,Apparel and Merchandise,44
+Maine,2023-03,Art Supplies,43
+Maine,2023-03,Books (General),13
+Maine,2023-03,Stationery and Supplies,65
+Maine,2023-03,Technology & Accessories,54
+Maine,2023-03,Textbooks,36
+Maine,2023-04,Apparel and Merchandise,61
+Maine,2023-04,Art Supplies,46
+Maine,2023-04,Books (General),22
+Maine,2023-04,Stationery and Supplies,56
+Maine,2023-04,Technology & Accessories,54
+Maine,2023-04,Textbooks,42
+Maine,2023-05,Apparel and Merchandise,53
+Maine,2023-05,Art Supplies,42
+Maine,2023-05,Books (General),16
+Maine,2023-05,Stationery and Supplies,52
+Maine,2023-05,Technology & Accessories,43
+Maine,2023-05,Textbooks,32
+Maine,2023-06,Apparel and Merchandise,47
+Maine,2023-06,Art Supplies,36
+Maine,2023-06,Books (General),15
+Maine,2023-06,Stationery and Supplies,44
+Maine,2023-06,Technology & Accessories,45
+Maine,2023-06,Textbooks,36
+Maine,2023-07,Apparel and Merchandise,50
+Maine,2023-07,Art Supplies,35
+Maine,2023-07,Books (General),16
+Maine,2023-07,Stationery and Supplies,44
+Maine,2023-07,Technology & Accessories,63
+Maine,2023-07,Textbooks,47
+Maine,2023-08,Apparel and Merchandise,55
+Maine,2023-08,Art Supplies,46
+Maine,2023-08,Books (General),27
+Maine,2023-08,Stationery and Supplies,49
+Maine,2023-08,Technology & Accessories,71
+Maine,2023-08,Textbooks,31
+Maine,2023-09,Apparel and Merchandise,43
+Maine,2023-09,Art Supplies,46
+Maine,2023-09,Books (General),12
+Maine,2023-09,Stationery and Supplies,45
+Maine,2023-09,Technology & Accessories,66
+Maine,2023-09,Textbooks,39
+Maine,2023-10,Apparel and Merchandise,48
+Maine,2023-10,Art Supplies,42
+Maine,2023-10,Books (General),16
+Maine,2023-10,Stationery and Supplies,66
+Maine,2023-10,Technology & Accessories,51
+Maine,2023-10,Textbooks,49
+Maine,2023-11,Apparel and Merchandise,46
+Maine,2023-11,Art Supplies,36
+Maine,2023-11,Books (General),14
+Maine,2023-11,Stationery and Supplies,41
+Maine,2023-11,Technology & Accessories,49
+Maine,2023-11,Textbooks,41
+Maine,2023-12,Apparel and Merchandise,31
+Maine,2023-12,Art Supplies,44
+Maine,2023-12,Books (General),22
+Maine,2023-12,Stationery and Supplies,44
+Maine,2023-12,Technology & Accessories,69
+Maine,2023-12,Textbooks,54
+Maine,2024-01,Apparel and Merchandise,56
+Maine,2024-01,Art Supplies,42
+Maine,2024-01,Books (General),14
+Maine,2024-01,Stationery and Supplies,42
+Maine,2024-01,Technology & Accessories,70
+Maine,2024-01,Textbooks,28
+Maine,2024-02,Apparel and Merchandise,38
+Maine,2024-02,Art Supplies,43
+Maine,2024-02,Books (General),13
+Maine,2024-02,Stationery and Supplies,63
+Maine,2024-02,Technology & Accessories,44
+Maine,2024-02,Textbooks,35
+Maine,2024-03,Apparel and Merchandise,62
+Maine,2024-03,Art Supplies,47
+Maine,2024-03,Books (General),22
+Maine,2024-03,Stationery and Supplies,56
+Maine,2024-03,Technology & Accessories,55
+Maine,2024-03,Textbooks,42
+Maine,2024-04,Apparel and Merchandise,52
+Maine,2024-04,Art Supplies,41
+Maine,2024-04,Books (General),16
+Maine,2024-04,Stationery and Supplies,52
+Maine,2024-04,Technology & Accessories,42
+Maine,2024-04,Textbooks,32
+Maine,2024-05,Apparel and Merchandise,50
+Maine,2024-05,Art Supplies,37
+Maine,2024-05,Books (General),16
+Maine,2024-05,Stationery and Supplies,44
+Maine,2024-05,Technology & Accessories,46
+Maine,2024-05,Textbooks,38
+Maine,2024-06,Apparel and Merchandise,47
+Maine,2024-06,Art Supplies,34
+Maine,2024-06,Books (General),15
+Maine,2024-06,Stationery and Supplies,44
+Maine,2024-06,Technology & Accessories,62
+Maine,2024-06,Textbooks,45
+Maine,2024-07,Apparel and Merchandise,55
+Maine,2024-07,Art Supplies,46
+Maine,2024-07,Books (General),27
+Maine,2024-07,Stationery and Supplies,49
+Maine,2024-07,Technology & Accessories,71
+Maine,2024-07,Textbooks,31
+Maine,2024-08,Apparel and Merchandise,44
+Maine,2024-08,Art Supplies,49
+Maine,2024-08,Books (General),12
+Maine,2024-08,Stationery and Supplies,45
+Maine,2024-08,Technology & Accessories,68
+Maine,2024-08,Textbooks,41
+Maine,2024-09,Apparel and Merchandise,47
+Maine,2024-09,Art Supplies,39
+Maine,2024-09,Books (General),16
+Maine,2024-09,Stationery and Supplies,66
+Maine,2024-09,Technology & Accessories,49
+Maine,2024-09,Textbooks,47
+Maine,2024-10,Apparel and Merchandise,46
+Maine,2024-10,Art Supplies,40
+Maine,2024-10,Books (General),15
+Maine,2024-10,Stationery and Supplies,43
+Maine,2024-10,Technology & Accessories,51
+Maine,2024-10,Textbooks,45
+Maine,2024-11,Apparel and Merchandise,31
+Maine,2024-11,Art Supplies,40
+Maine,2024-11,Books (General),21
+Maine,2024-11,Stationery and Supplies,42
+Maine,2024-11,Technology & Accessories,67
+Maine,2024-11,Textbooks,50
+Maine,2024-12,Apparel and Merchandise,36
+Maine,2024-12,Art Supplies,33
+Maine,2024-12,Books (General),20
+Maine,2024-12,Stationery and Supplies,44
+Maine,2024-12,Technology & Accessories,61
+Maine,2024-12,Textbooks,37
+Maine,2025-01,Apparel and Merchandise,95
+Maine,2025-01,Art Supplies,71
+Maine,2025-01,Books (General),25
+Maine,2025-01,Stationery and Supplies,101
+Maine,2025-01,Technology & Accessories,78
+Maine,2025-01,Textbooks,21
+Maine,2025-02,Apparel and Merchandise,90
+Maine,2025-02,Art Supplies,72
+Maine,2025-02,Books (General),47
+Maine,2025-02,Stationery and Supplies,86
+Maine,2025-02,Technology & Accessories,77
+Maine,2025-02,Textbooks,18
+Maine,2025-03,Apparel and Merchandise,84
+Maine,2025-03,Art Supplies,59
+Maine,2025-03,Books (General),28
+Maine,2025-03,Stationery and Supplies,91
+Maine,2025-03,Technology & Accessories,84
+Maine,2025-03,Textbooks,29
+Maine,2025-04,Apparel and Merchandise,126
+Maine,2025-04,Art Supplies,108
+Maine,2025-04,Books (General),59
+Maine,2025-04,Stationery and Supplies,115
+Maine,2025-04,Technology & Accessories,76
+Maine,2025-04,Textbooks,54
+Maine,2025-05,Apparel and Merchandise,119
+Maine,2025-05,Art Supplies,101
+Maine,2025-05,Books (General),42
+Maine,2025-05,Stationery and Supplies,140
+Maine,2025-05,Technology & Accessories,52
+Maine,2025-05,Textbooks,51
+Maine,2025-06,Apparel and Merchandise,111
+Maine,2025-06,Art Supplies,85
+Maine,2025-06,Books (General),48
+Maine,2025-06,Stationery and Supplies,139
+Maine,2025-06,Technology & Accessories,71
+Maine,2025-06,Textbooks,63
+Maine,2025-07,Apparel and Merchandise,54
+Maine,2025-07,Art Supplies,60
+Maine,2025-07,Books (General),37
+Maine,2025-07,Stationery and Supplies,79
+Maine,2025-07,Technology & Accessories,94
+Maine,2025-07,Textbooks,41
+Maine,2025-08,Apparel and Merchandise,72
+Maine,2025-08,Art Supplies,62
+Maine,2025-08,Books (General),34
+Maine,2025-08,Stationery and Supplies,85
+Maine,2025-08,Technology & Accessories,103
+Maine,2025-08,Textbooks,51
+Maine,2025-09,Apparel and Merchandise,66
+Maine,2025-09,Art Supplies,62
+Maine,2025-09,Books (General),29
+Maine,2025-09,Stationery and Supplies,85
+Maine,2025-09,Technology & Accessories,79
+Maine,2025-09,Textbooks,40
+Maine,2025-10,Apparel and Merchandise,134
+Maine,2025-10,Art Supplies,102
+Maine,2025-10,Books (General),55
+Maine,2025-10,Stationery and Supplies,119
+Maine,2025-10,Technology & Accessories,149
+Maine,2025-10,Textbooks,60
+Maine,2025-11,Apparel and Merchandise,68
+Maine,2025-11,Art Supplies,80
+Maine,2025-11,Books (General),32
+Maine,2025-11,Stationery and Supplies,94
+Maine,2025-11,Technology & Accessories,85
+Maine,2025-11,Textbooks,50
+Maine,2025-12,Apparel and Merchandise,79
+Maine,2025-12,Art Supplies,60
+Maine,2025-12,Books (General),28
+Maine,2025-12,Stationery and Supplies,79
+Maine,2025-12,Technology & Accessories,103
+Maine,2025-12,Textbooks,38
+New Jersey,2022-01,Apparel and Merchandise,79
+New Jersey,2022-01,Art Supplies,72
+New Jersey,2022-01,Books (General),40
+New Jersey,2022-01,Stationery and Supplies,100
+New Jersey,2022-01,Technology & Accessories,110
+New Jersey,2022-01,Textbooks,84
+New Jersey,2022-02,Apparel and Merchandise,82
+New Jersey,2022-02,Art Supplies,73
+New Jersey,2022-02,Books (General),35
+New Jersey,2022-02,Stationery and Supplies,106
+New Jersey,2022-02,Technology & Accessories,98
+New Jersey,2022-02,Textbooks,97
+New Jersey,2022-03,Apparel and Merchandise,87
+New Jersey,2022-03,Art Supplies,70
+New Jersey,2022-03,Books (General),39
+New Jersey,2022-03,Stationery and Supplies,91
+New Jersey,2022-03,Technology & Accessories,100
+New Jersey,2022-03,Textbooks,76
+New Jersey,2022-04,Apparel and Merchandise,82
+New Jersey,2022-04,Art Supplies,83
+New Jersey,2022-04,Books (General),42
+New Jersey,2022-04,Stationery and Supplies,97
+New Jersey,2022-04,Technology & Accessories,105
+New Jersey,2022-04,Textbooks,107
+New Jersey,2022-05,Apparel and Merchandise,94
+New Jersey,2022-05,Art Supplies,76
+New Jersey,2022-05,Books (General),32
+New Jersey,2022-05,Stationery and Supplies,102
+New Jersey,2022-05,Technology & Accessories,94
+New Jersey,2022-05,Textbooks,110
+New Jersey,2022-06,Apparel and Merchandise,85
+New Jersey,2022-06,Art Supplies,96
+New Jersey,2022-06,Books (General),37
+New Jersey,2022-06,Stationery and Supplies,95
+New Jersey,2022-06,Technology & Accessories,99
+New Jersey,2022-06,Textbooks,99
+New Jersey,2022-07,Apparel and Merchandise,78
+New Jersey,2022-07,Art Supplies,57
+New Jersey,2022-07,Books (General),36
+New Jersey,2022-07,Stationery and Supplies,107
+New Jersey,2022-07,Technology & Accessories,101
+New Jersey,2022-07,Textbooks,97
+New Jersey,2022-08,Apparel and Merchandise,86
+New Jersey,2022-08,Art Supplies,67
+New Jersey,2022-08,Books (General),38
+New Jersey,2022-08,Stationery and Supplies,111
+New Jersey,2022-08,Technology & Accessories,96
+New Jersey,2022-08,Textbooks,98
+New Jersey,2022-09,Apparel and Merchandise,104
+New Jersey,2022-09,Art Supplies,77
+New Jersey,2022-09,Books (General),39
+New Jersey,2022-09,Stationery and Supplies,95
+New Jersey,2022-09,Technology & Accessories,119
+New Jersey,2022-09,Textbooks,119
+New Jersey,2022-10,Apparel and Merchandise,93
+New Jersey,2022-10,Art Supplies,71
+New Jersey,2022-10,Books (General),41
+New Jersey,2022-10,Stationery and Supplies,116
+New Jersey,2022-10,Technology & Accessories,113
+New Jersey,2022-10,Textbooks,94
+New Jersey,2022-11,Apparel and Merchandise,89
+New Jersey,2022-11,Art Supplies,73
+New Jersey,2022-11,Books (General),35
+New Jersey,2022-11,Stationery and Supplies,100
+New Jersey,2022-11,Technology & Accessories,109
+New Jersey,2022-11,Textbooks,110
+New Jersey,2022-12,Apparel and Merchandise,85
+New Jersey,2022-12,Art Supplies,82
+New Jersey,2022-12,Books (General),45
+New Jersey,2022-12,Stationery and Supplies,100
+New Jersey,2022-12,Technology & Accessories,103
+New Jersey,2022-12,Textbooks,110
+New Jersey,2023-01,Apparel and Merchandise,115
+New Jersey,2023-01,Art Supplies,108
+New Jersey,2023-01,Books (General),52
+New Jersey,2023-01,Stationery and Supplies,150
+New Jersey,2023-01,Technology & Accessories,185
+New Jersey,2023-01,Textbooks,81
+New Jersey,2023-02,Apparel and Merchandise,134
+New Jersey,2023-02,Art Supplies,111
+New Jersey,2023-02,Books (General),49
+New Jersey,2023-02,Stationery and Supplies,143
+New Jersey,2023-02,Technology & Accessories,151
+New Jersey,2023-02,Textbooks,86
+New Jersey,2023-03,Apparel and Merchandise,159
+New Jersey,2023-03,Art Supplies,112
+New Jersey,2023-03,Books (General),61
+New Jersey,2023-03,Stationery and Supplies,122
+New Jersey,2023-03,Technology & Accessories,160
+New Jersey,2023-03,Textbooks,86
+New Jersey,2023-04,Apparel and Merchandise,156
+New Jersey,2023-04,Art Supplies,118
+New Jersey,2023-04,Books (General),52
+New Jersey,2023-04,Stationery and Supplies,167
+New Jersey,2023-04,Technology & Accessories,148
+New Jersey,2023-04,Textbooks,107
+New Jersey,2023-05,Apparel and Merchandise,140
+New Jersey,2023-05,Art Supplies,103
+New Jersey,2023-05,Books (General),64
+New Jersey,2023-05,Stationery and Supplies,151
+New Jersey,2023-05,Technology & Accessories,143
+New Jersey,2023-05,Textbooks,85
+New Jersey,2023-06,Apparel and Merchandise,146
+New Jersey,2023-06,Art Supplies,98
+New Jersey,2023-06,Books (General),61
+New Jersey,2023-06,Stationery and Supplies,160
+New Jersey,2023-06,Technology & Accessories,135
+New Jersey,2023-06,Textbooks,116
+New Jersey,2023-07,Apparel and Merchandise,114
+New Jersey,2023-07,Art Supplies,132
+New Jersey,2023-07,Books (General),51
+New Jersey,2023-07,Stationery and Supplies,132
+New Jersey,2023-07,Technology & Accessories,156
+New Jersey,2023-07,Textbooks,114
+New Jersey,2023-08,Apparel and Merchandise,140
+New Jersey,2023-08,Art Supplies,117
+New Jersey,2023-08,Books (General),57
+New Jersey,2023-08,Stationery and Supplies,155
+New Jersey,2023-08,Technology & Accessories,162
+New Jersey,2023-08,Textbooks,128
+New Jersey,2023-09,Apparel and Merchandise,120
+New Jersey,2023-09,Art Supplies,112
+New Jersey,2023-09,Books (General),56
+New Jersey,2023-09,Stationery and Supplies,147
+New Jersey,2023-09,Technology & Accessories,141
+New Jersey,2023-09,Textbooks,138
+New Jersey,2023-10,Apparel and Merchandise,114
+New Jersey,2023-10,Art Supplies,116
+New Jersey,2023-10,Books (General),57
+New Jersey,2023-10,Stationery and Supplies,161
+New Jersey,2023-10,Technology & Accessories,166
+New Jersey,2023-10,Textbooks,138
+New Jersey,2023-11,Apparel and Merchandise,117
+New Jersey,2023-11,Art Supplies,103
+New Jersey,2023-11,Books (General),63
+New Jersey,2023-11,Stationery and Supplies,145
+New Jersey,2023-11,Technology & Accessories,169
+New Jersey,2023-11,Textbooks,137
+New Jersey,2023-12,Apparel and Merchandise,129
+New Jersey,2023-12,Art Supplies,117
+New Jersey,2023-12,Books (General),86
+New Jersey,2023-12,Stationery and Supplies,156
+New Jersey,2023-12,Technology & Accessories,189
+New Jersey,2023-12,Textbooks,141
+New Jersey,2024-01,Apparel and Merchandise,151
+New Jersey,2024-01,Art Supplies,122
+New Jersey,2024-01,Books (General),57
+New Jersey,2024-01,Stationery and Supplies,154
+New Jersey,2024-01,Technology & Accessories,158
+New Jersey,2024-01,Textbooks,99
+New Jersey,2024-02,Apparel and Merchandise,145
+New Jersey,2024-02,Art Supplies,102
+New Jersey,2024-02,Books (General),57
+New Jersey,2024-02,Stationery and Supplies,114
+New Jersey,2024-02,Technology & Accessories,155
+New Jersey,2024-02,Textbooks,78
+New Jersey,2024-03,Apparel and Merchandise,161
+New Jersey,2024-03,Art Supplies,123
+New Jersey,2024-03,Books (General),55
+New Jersey,2024-03,Stationery and Supplies,173
+New Jersey,2024-03,Technology & Accessories,152
+New Jersey,2024-03,Textbooks,109
+New Jersey,2024-04,Apparel and Merchandise,135
+New Jersey,2024-04,Art Supplies,98
+New Jersey,2024-04,Books (General),61
+New Jersey,2024-04,Stationery and Supplies,145
+New Jersey,2024-04,Technology & Accessories,139
+New Jersey,2024-04,Textbooks,83
+New Jersey,2024-05,Apparel and Merchandise,148
+New Jersey,2024-05,Art Supplies,103
+New Jersey,2024-05,Books (General),61
+New Jersey,2024-05,Stationery and Supplies,162
+New Jersey,2024-05,Technology & Accessories,138
+New Jersey,2024-05,Textbooks,117
+New Jersey,2024-06,Apparel and Merchandise,112
+New Jersey,2024-06,Art Supplies,127
+New Jersey,2024-06,Books (General),51
+New Jersey,2024-06,Stationery and Supplies,130
+New Jersey,2024-06,Technology & Accessories,153
+New Jersey,2024-06,Textbooks,113
+New Jersey,2024-07,Apparel and Merchandise,140
+New Jersey,2024-07,Art Supplies,117
+New Jersey,2024-07,Books (General),57
+New Jersey,2024-07,Stationery and Supplies,155
+New Jersey,2024-07,Technology & Accessories,162
+New Jersey,2024-07,Textbooks,128
+New Jersey,2024-08,Apparel and Merchandise,124
+New Jersey,2024-08,Art Supplies,116
+New Jersey,2024-08,Books (General),57
+New Jersey,2024-08,Stationery and Supplies,153
+New Jersey,2024-08,Technology & Accessories,147
+New Jersey,2024-08,Textbooks,143
+New Jersey,2024-09,Apparel and Merchandise,110
+New Jersey,2024-09,Art Supplies,112
+New Jersey,2024-09,Books (General),56
+New Jersey,2024-09,Stationery and Supplies,155
+New Jersey,2024-09,Technology & Accessories,160
+New Jersey,2024-09,Textbooks,133
+New Jersey,2024-10,Apparel and Merchandise,123
+New Jersey,2024-10,Art Supplies,105
+New Jersey,2024-10,Books (General),66
+New Jersey,2024-10,Stationery and Supplies,147
+New Jersey,2024-10,Technology & Accessories,175
+New Jersey,2024-10,Textbooks,138
+New Jersey,2024-11,Apparel and Merchandise,123
+New Jersey,2024-11,Art Supplies,115
+New Jersey,2024-11,Books (General),83
+New Jersey,2024-11,Stationery and Supplies,154
+New Jersey,2024-11,Technology & Accessories,183
+New Jersey,2024-11,Textbooks,140
+New Jersey,2024-12,Apparel and Merchandise,115
+New Jersey,2024-12,Art Supplies,108
+New Jersey,2024-12,Books (General),52
+New Jersey,2024-12,Stationery and Supplies,150
+New Jersey,2024-12,Technology & Accessories,185
+New Jersey,2024-12,Textbooks,81
+New Jersey,2025-01,Apparel and Merchandise,209
+New Jersey,2025-01,Art Supplies,216
+New Jersey,2025-01,Books (General),110
+New Jersey,2025-01,Stationery and Supplies,274
+New Jersey,2025-01,Technology & Accessories,228
+New Jersey,2025-01,Textbooks,68
+New Jersey,2025-02,Apparel and Merchandise,208
+New Jersey,2025-02,Art Supplies,211
+New Jersey,2025-02,Books (General),118
+New Jersey,2025-02,Stationery and Supplies,268
+New Jersey,2025-02,Technology & Accessories,199
+New Jersey,2025-02,Textbooks,56
+New Jersey,2025-03,Apparel and Merchandise,243
+New Jersey,2025-03,Art Supplies,206
+New Jersey,2025-03,Books (General),91
+New Jersey,2025-03,Stationery and Supplies,265
+New Jersey,2025-03,Technology & Accessories,234
+New Jersey,2025-03,Textbooks,94
+New Jersey,2025-04,Apparel and Merchandise,343
+New Jersey,2025-04,Art Supplies,255
+New Jersey,2025-04,Books (General),152
+New Jersey,2025-04,Stationery and Supplies,360
+New Jersey,2025-04,Technology & Accessories,180
+New Jersey,2025-04,Textbooks,144
+New Jersey,2025-05,Apparel and Merchandise,343
+New Jersey,2025-05,Art Supplies,269
+New Jersey,2025-05,Books (General),133
+New Jersey,2025-05,Stationery and Supplies,374
+New Jersey,2025-05,Technology & Accessories,160
+New Jersey,2025-05,Textbooks,164
+New Jersey,2025-06,Apparel and Merchandise,318
+New Jersey,2025-06,Art Supplies,254
+New Jersey,2025-06,Books (General),127
+New Jersey,2025-06,Stationery and Supplies,393
+New Jersey,2025-06,Technology & Accessories,181
+New Jersey,2025-06,Textbooks,187
+New Jersey,2025-07,Apparel and Merchandise,223
+New Jersey,2025-07,Art Supplies,138
+New Jersey,2025-07,Books (General),82
+New Jersey,2025-07,Stationery and Supplies,229
+New Jersey,2025-07,Technology & Accessories,217
+New Jersey,2025-07,Textbooks,115
+New Jersey,2025-08,Apparel and Merchandise,207
+New Jersey,2025-08,Art Supplies,155
+New Jersey,2025-08,Books (General),80
+New Jersey,2025-08,Stationery and Supplies,242
+New Jersey,2025-08,Technology & Accessories,234
+New Jersey,2025-08,Textbooks,131
+New Jersey,2025-09,Apparel and Merchandise,212
+New Jersey,2025-09,Art Supplies,168
+New Jersey,2025-09,Books (General),77
+New Jersey,2025-09,Stationery and Supplies,232
+New Jersey,2025-09,Technology & Accessories,238
+New Jersey,2025-09,Textbooks,118
+New Jersey,2025-10,Apparel and Merchandise,328
+New Jersey,2025-10,Art Supplies,296
+New Jersey,2025-10,Books (General),129
+New Jersey,2025-10,Stationery and Supplies,377
+New Jersey,2025-10,Technology & Accessories,422
+New Jersey,2025-10,Textbooks,187
+New Jersey,2025-11,Apparel and Merchandise,247
+New Jersey,2025-11,Art Supplies,180
+New Jersey,2025-11,Books (General),88
+New Jersey,2025-11,Stationery and Supplies,223
+New Jersey,2025-11,Technology & Accessories,250
+New Jersey,2025-11,Textbooks,109
+New Jersey,2025-12,Apparel and Merchandise,257
+New Jersey,2025-12,Art Supplies,189
+New Jersey,2025-12,Books (General),78
+New Jersey,2025-12,Stationery and Supplies,227
+New Jersey,2025-12,Technology & Accessories,281
+New Jersey,2025-12,Textbooks,126
