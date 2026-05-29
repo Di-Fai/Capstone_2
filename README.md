@@ -6,6 +6,9 @@
 
 ## Project Overview
 
+## Caapstone Video link  https://yearuptemp-my.sharepoint.com/:v:/g/personal/dnji_my_yearupunited_org/IQBr7pqKYeKBR749aCFPVMGLAWf6N7QIUBECabjsDHXes_k?e=2ng5qj
+
+
 This project analyzes in-store sales performance for two assigned sales territories in the Northeast region:
 
 Maine — Territory Manager: Erbayne Middleton
